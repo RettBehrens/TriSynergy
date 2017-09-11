@@ -1,0 +1,43 @@
+a:link {
+	color: #CC0033 !important;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #663399 !important;
+	text-decoration: none;
+}
+
+a:active {
+	color: #cc0033 !important;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0066cc !important;
+	text-decoration: none;
+}
+
+footer {
+	padding-bottom: 10px;
+}
+
+h3 {
+	color: #663399;
+}
+
+h4 {
+	color: #0066cc;
+}
+
+section {
+	padding: 150px 0px 50px 0px;
+}
+
+span {
+	color: #663399;
+}
+
+.bg-primary {
+	background-color: white !important;
+}
