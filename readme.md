@@ -1,5 +1,5 @@
 Original Site:
-[TriSynergy Consulting LLC](www.trisynergyllc.com)
+[TriSynergy Consulting LLC](http://www.trisynergyllc.com)
 
 Re-Design Work in Progress:
-[HERE](unnatural-hearing.surge.sh)
+[HERE](http://unnatural-hearing.surge.sh)
