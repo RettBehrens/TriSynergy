@@ -52,6 +52,10 @@ body {
   margin-bottom: 60px;
 }
 
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
 .footer {
   position: absolute;
   bottom: 0;
